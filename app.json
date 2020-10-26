@@ -1,0 +1,12 @@
+{
+  "name": "GithubClient",
+  "displayName": "GithubClient",
+  "expo": {
+    "name": "GithubClient",
+    "slug": "GithubClient",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

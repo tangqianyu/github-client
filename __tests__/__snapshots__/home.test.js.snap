@@ -1,0 +1,147 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Home 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "fontSize": 26,
+        "fontWeight": "bold",
+      }
+    }
+  >
+    menq
+    's GitHub !
+  </Text>
+  <Image
+    source={
+      Object {
+        "uri": "testAvatar",
+      }
+    }
+    style={
+      Object {
+        "height": 100,
+        "width": 100,
+      }
+    }
+  />
+  <View>
+    <Text>
+      Name
+    </Text>
+    <Text>
+      For177
+    </Text>
+  </View>
+  <View>
+    <Text>
+      Bio
+    </Text>
+    <Text>
+      work hard!
+    </Text>
+  </View>
+  <View>
+    <Text>
+      Email
+    </Text>
+    <Text>
+      mengqiang.q@gmail.com
+    </Text>
+  </View>
+  <View>
+    <Text>
+      website
+    </Text>
+    <Text>
+      testUrl
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+        "height": 100,
+        "width": "100%",
+      }
+    }
+  >
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "flex": 1,
+          "opacity": 1,
+        }
+      }
+    >
+      <Text>
+        Repositories
+      </Text>
+      <Text>
+        89
+      </Text>
+    </View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "opacity": 1,
+        }
+      }
+    >
+      <Text>
+        Followers
+      </Text>
+      <Text>
+        17
+      </Text>
+    </View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "opacity": 1,
+        }
+      }
+    >
+      <Text>
+        Following
+      </Text>
+      <Text>
+        73
+      </Text>
+    </View>
+  </View>
+</View>
+`;
